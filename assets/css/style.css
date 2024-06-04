@@ -1,0 +1,20 @@
+.red-paragraph {
+  background-color: red;
+  width: 200px;
+}
+
+#green-button {
+  background-color: green;
+}
+
+.hide {
+  display: none;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  border: 2px solid red;
+  align-items: center;
+}
